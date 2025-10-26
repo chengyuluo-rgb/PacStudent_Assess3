@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pacstudent right2_0: -8002930697954897484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pacstudent_Down
+  m_Name: YGhost_Left
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 4157908913899685539, guid: 64db0d5d75dba4225b500bd1f79a9a33, type: 3}
+      value: {fileID: -7537963346501195095, guid: 8dcf4f5fd093046769d490051b89afb1, type: 3}
     - time: 0.083333336
-      value: {fileID: 7878662674757939957, guid: 8e27514f4cca84ae3909a5ce25152727, type: 3}
+      value: {fileID: -8565000619180508981, guid: 1b779eceecfff4a839d168428d21a5cf, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,8 +46,8 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 4157908913899685539, guid: 64db0d5d75dba4225b500bd1f79a9a33, type: 3}
-    - {fileID: 7878662674757939957, guid: 8e27514f4cca84ae3909a5ce25152727, type: 3}
+    - {fileID: -7537963346501195095, guid: 8dcf4f5fd093046769d490051b89afb1, type: 3}
+    - {fileID: -8565000619180508981, guid: 1b779eceecfff4a839d168428d21a5cf, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

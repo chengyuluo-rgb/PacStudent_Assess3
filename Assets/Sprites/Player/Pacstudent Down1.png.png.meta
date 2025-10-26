@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pacstudent Down1.png_0: 4157908913899685539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
